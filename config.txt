@@ -1,5 +1,5 @@
 token=NDkwNjgzMzA0Mzg3OTM2MjY3.Dn84Bg.gWCkbNkF1firmIMiaAa5qOHwnxc
-owner=473619373085425675
+owner=478508001976909834
 prefix=Sa
 game=
 stayinchannel=true
